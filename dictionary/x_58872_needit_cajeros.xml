@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="cajeros" max_length="40" name="x_58872_needit_cajeros" type="collection">
+        <element display="true" label="cajero" max_length="40" name="cajero" type="string"/>
+        <element label="ipcajero" max_length="40" name="ipcajero" type="string"/>
+    </element>
+</database>
